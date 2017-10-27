@@ -1,0 +1,11 @@
+{
+    "config": {
+        "platform": {
+            "php": "7.1"
+        },
+        "optimize-autoloader": true
+    },
+    "require": {
+        "ramsey/uuid": "^3.7"
+    }
+}

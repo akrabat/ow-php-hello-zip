@@ -1,0 +1,3 @@
+build/
+settings.json
+actions/**/vendor
